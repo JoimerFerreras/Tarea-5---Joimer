@@ -1,0 +1,27 @@
+.contenedor{
+    padding-bottom: 30px;
+
+
+}
+
+.fila{
+    display: flex;
+}
+
+.colmuna{
+    padding-right:30px ;
+}
+
+.texto{
+    font-size: 18px;
+    width: 600px;
+    border-radius: 25px;
+    padding-top: 10px;
+}
+
+.boton{
+    margin-left: 220px;
+    font-size: 24px;
+    border-radius: 15px;
+    padding: 12px;
+}
